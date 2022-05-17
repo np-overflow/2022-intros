@@ -2,6 +2,7 @@
 ## Add Your Intro!
 1. In the top right, click on the **Fork** button.
 > A fork allows you to make a copy of this repository that you can edit, without affecting the original project.
+
 ![Fork Repo](images/1-fork.png)
 
 2. Ensure the owner is your account and select **Create fork**.
@@ -19,10 +20,12 @@
 
 3. Name the file `YourName.md`. For example, `QinGuan.md`, `Jimmy.md`, `JiaChen.md`, `Ryan.md`.
 > The `.md` stands for markdown. Markdown is a common file format used to write documentation and README files, like this one. [Learn more](https://en.wikipedia.org/wiki/Markdown).
+
 ![Create new file](images/6-editor-namefile.png)
 
 4. Introduce yourself! Type in your name, write a short bio, mention what programming languages you do, your favourite colour, and even add images!
 > You can create rich Markdown files using the Markdown syntax. Here's a [guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
 ![Edit file](images/7-editor-editfile.png)
 
 5. Once you're done, commit the change by going to the Source Control menu (the one that looks like a bunch of branches) and typing in a commit message.
