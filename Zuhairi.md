@@ -6,4 +6,5 @@ i use c, c++, python
 
 byebye
 
+here is the glorious president, qin guan
 ![this is qg](images/guan.png)
