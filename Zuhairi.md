@@ -5,3 +5,5 @@ i am dying from physics
 i use c, c++, python
 
 byebye
+
+![this is qg](images/guan.png)
